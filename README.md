@@ -4,7 +4,12 @@ I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).
 Just got back from my internship, completing my last year at UofC (but still working Full Time).  
 Estimate Time Graduation: 2021  
 
-Not fully up to date but [here is my resume](https://drive.google.com/file/d/1LJnFmgMGGjY0w8M7fK5Ar6jyuPrv9l-v/view?usp=sharing). I am also hoping to start working on my web-portfolio at [numanaral.tech](numanaral.tech) but you will just be redirected to LinkedIn for now.
+[Temporary Portfolio](https://numanaral.github.io/)
+
+[Latest small side project](https://numanaral.github.io/chin-scraper)
+
+[Not fully up to date but here is my resume](https://drive.google.com/file/d/1LJnFmgMGGjY0w8M7fK5Ar6jyuPrv9l-v/view?usp=sharing).
+
 
 My current interest/focus lies on the following stack:
 - node/.NET
