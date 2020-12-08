@@ -6,10 +6,11 @@ Estimate Time Graduation: 2021
 
 [Temporary Portfolio at git.io/numanaral](http://git.io/numanaral)
 
-[Latest small side project](https://numanaral.github.io/chin-scraper)
-
 [Not fully up to date but here is my resume](https://drive.google.com/file/d/1LJnFmgMGGjY0w8M7fK5Ar6jyuPrv9l-v/view?usp=sharing).
 
+Two of my latest projects can be found at:
+- [Chin Scraper](https://git.io/chin-scraper)
+- [SlideScott](https://git.io/slide-scott)
 
 My current interest/focus lies on the following stack:
 - node/.NET
