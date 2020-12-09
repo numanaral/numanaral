@@ -4,7 +4,8 @@ I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).
 Just got back from my internship, completing my last year at UofC (but still working Full Time).  
 Estimate Time Graduation: 2021  
 
-[Temporary Portfolio at git.io/numanaral](http://git.io/numanaral)
+Temporary Portfolio at [git.io/numanaral](http://git.io/numanaral)  
+[LinkedIn](https://www.linkedin.com/in/numanaral/)
 
 [Not fully up to date but here is my resume](https://drive.google.com/file/d/1LJnFmgMGGjY0w8M7fK5Ar6jyuPrv9l-v/view?usp=sharing).
 
