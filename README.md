@@ -4,7 +4,7 @@ I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).
 Completed a 12-month internship followed by a 12-month FT work, currently back to uni, completing my last year and continuing to work at the same time.  
 **Estimate Time Graduation:** August 2021 or December 2021
 
-My [Linked In](https://www.linkedin.com/in/numanaral/) & temporary portfolio at [numanaral.github.io](https://numanaral.github.io) <sub>(To be updated)</sub>  
+My [Linked In](https://www.linkedin.com/in/numanaral/) & temporary portfolio at [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(To be updated)</sub>  
 Not fully up to date but [here](https://drive.google.com/file/d/1LJnFmgMGGjY0w8M7fK5Ar6jyuPrv9l-v/view?usp=sharing) is my resume.
 
 &nbsp;  
