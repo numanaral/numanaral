@@ -1,11 +1,13 @@
 ### Hi there 👋
 I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).  
   
-Completed a 12-month internship followed by a 12-month FT work, currently back to uni, completing my last year and continuing to work at the same time.  
-**Estimate Time Graduation:** August 2021 or December 2021
+Completed a 12-month internship followed by a 12-month FT work, currently back to uni, completing my last year and continuing to work at the same time  
+**Estimate Time Availability:**
+- Plan A: May 2021
+- Plan B: September 2021
 
-My [Linked In](https://www.linkedin.com/in/numanaral/) & temporary portfolio at [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(To be updated)</sub>  
-Not fully up to date but [here](https://drive.google.com/file/d/1LJnFmgMGGjY0w8M7fK5Ar6jyuPrv9l-v/view?usp=sharing) is my resume.
+My [LinkedIn](https://www.linkedin.com/in/numanaral/) & temporary portfolio at [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(To be updated)</sub>  
+Here is my [resume](https://drive.google.com/file/d/1FvEiHYyfDzkb2VLHbXGz-gFX8msinv0h/view)
 
 &nbsp;  
 Two of my latest projects can be viewed live from these links:
@@ -13,17 +15,16 @@ Two of my latest projects can be viewed live from these links:
 - SlideScott: [git.io/slide-scott](https://git.io/slide-scott)
 
 &nbsp;  
-My current interest/focus lies on the following stack:
-- node
-- Firebase
-- React (hooks) & Redux
-- Material Design
-- Modern JS & Toools: ES6, 7 & 9 along with webpack, babel, eslint & prettier, plop & inquirer
+My current interest/focus lies on the following stack/tools:
+- node (express) & Firebase
+- React (hooks) & Redux, nextjs
+- Material Design & styled-components
+- TS / JS (ES5 & 6, ECMAScript 2017 & 2018)
 
 Followed by:
 - .NET
 - Azure
-- MSSQL & Mongo 
+- MSSQL & MongoDB
 
 <!--
 **numanaral/numanaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
