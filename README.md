@@ -8,7 +8,7 @@ Completed a 12-month internship followed by a 12-month FT work, currently back t
 - Plan B: September 2021
 
 My [LinkedIn](https://www.linkedin.com/in/numanaral/) & temporary portfolio at [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(To be updated)</sub>  
-Here is my [resume](https://drive.google.com/file/d/1FvEiHYyfDzkb2VLHbXGz-gFX8msinv0h/view)
+Here is my [resume](https://drive.google.com/file/d/1IdWJMS4Apd6kVihyisrxjmuhAST8IRVD/view)
 
 Two of my latest projects can be viewed live from these links:
 - Chin Scraper: [git.io/chin-scraper](https://git.io/chin-scraper)
