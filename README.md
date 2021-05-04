@@ -6,9 +6,9 @@ I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).
 - [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(Not yet started working on, to be updated)</sub>  
 
 Some of showcased projects can be viewed live from these links:
-- [chin-scraper](https://git.io/chin-scraper)
-- [slide-scott](https://git.io/slide-scott)
 - [bomba-man](https://git.io/bomba-man)
+- [slide-scott](https://git.io/slide-scott)
+- [chin-scraper](https://git.io/chin-scraper)
 
 My current interest/focus lies on the following stack:
 - node (express) & Firebase
