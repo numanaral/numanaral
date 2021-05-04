@@ -1,31 +1,20 @@
 ### Hi there 👋
 I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).  
-  
-Completed a 12-month internship followed by a 12-month FT work, currently back to uni, completing my last year and continuing to work at the same time  
 
-**Estimate Time Availability:**
-- Plan A: May 2021
-- Plan B: September 2021
-
-My [LinkedIn](https://www.linkedin.com/in/numanaral/) & temporary portfolio at [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(To be updated)</sub>  
-Here is my [resume](https://drive.google.com/file/d/1j5jwKz3ZTIy8FtD8u-f1qssEIEpuqBfW/view)
+- [Resume](https://drive.google.com/file/d/1j5jwKz3ZTIy8FtD8u-f1qssEIEpuqBfW/view)
+- [LinkedIn](https://www.linkedin.com/in/numanaral/)
+- [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(Not yet started working on, to be updated)</sub>  
 
 Some of showcased projects can be viewed live from these links:
-- Chin Scraper: [git.io/chin-scraper](https://git.io/chin-scraper)
-- SlideScott: [git.io/slide-scott](https://git.io/slide-scott)
-- Bomberman: [git.io/bomberman](https://git.io/bomberman)
+- [chin-scraper](https://git.io/chin-scraper)
+- [slide-scott](https://git.io/slide-scott)
+- [bomba-man](https://git.io/bomba-man)
 
-My current interest/focus lies on the following stack/tools:
+My current interest/focus lies on the following stack:
 - node (express) & Firebase
-- React (hooks) & Redux, nextjs
-- Material Design & styled-components
-- TS / JS (ES5 & 6, ECMAScript 2017 & 2018)
-
-Followed by:
-- .NET
-- Azure
-- MSSQL & MongoDB
-
+- React & Redux, NEXTjs
+- Material Design
+- TS / JS
 <!--
 **numanaral/numanaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
