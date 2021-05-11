@@ -10,6 +10,9 @@ Some of showcased projects can be viewed live from these links:
 - [slide-scott](https://git.io/slide-scott)
 - [chin-scraper](https://git.io/chin-scraper)
 
+Or you go to the following link for screenshots + summary:
+- [Project Showcase](https://github.com/numanaral/project-showcase)
+
 My current interest/focus lies on the following stack:
 - node (express) & Firebase
 - React & Redux, NEXTjs
