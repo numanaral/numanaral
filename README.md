@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).  
 
-- [Resume](https://drive.google.com/file/d/1j5jwKz3ZTIy8FtD8u-f1qssEIEpuqBfW/view)
+- [Resume](https://drive.google.com/file/d/1I5Cm3UEo-b7U2UGvznG5j7IK5rrjMd3r/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/numanaral/)
 - [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(Not yet started working on, to be updated)</sub>  
 
