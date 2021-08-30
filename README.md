@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).  
 
-I am currently part of the Lohika family, working @pinterest's data team, focusing on the UX.
+Currently part of the Lohika family, working @pinterest's data team, focusing on the UX.
 
 - [Resume](https://drive.google.com/file/d/1I5Cm3UEo-b7U2UGvznG5j7IK5rrjMd3r/view?usp=sharing)
 - [Project Showcase (screenshots & gifs of the projects)](https://github.com/numanaral/project-showcase)
