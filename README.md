@@ -3,10 +3,10 @@ I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).
 
 Currently part of the Capgemini Engineering fam, working @pinterest's data team, focusing on the UX.
 
-- [Resume](https://drive.google.com/file/d/1I5Cm3UEo-b7U2UGvznG5j7IK5rrjMd3r/view?usp=sharing)  <sub>(outdated)</sub>  
-- [Project Showcase (screenshots & gifs of the projects)](https://github.com/numanaral/project-showcase)
+<!-- - [Resume](https://drive.google.com/file/d/1I5Cm3UEo-b7U2UGvznG5j7IK5rrjMd3r/view?usp=sharing)  <sub>(outdated)</sub> -->
+- [git.io/numanaral](https://numanaral.github.io/?ref=github) <sub>(more of a placeholder for socials with a fun touch!!)</sub>  
+- [Project Showcase](https://github.com/numanaral/project-showcase) <sub>(screenshots & gifs of the projects)</sub>  
 - [LinkedIn](https://www.linkedin.com/in/numanaral/)
-- [git.io/numanaral](https://numanaral.github.io/?ref=github) <sub>(more of a placeholder ?)</sub>  
 
 Some of showcased projects can be viewed live from these links:
 - [bomba-man](https://git.io/bomba-man)
