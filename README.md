@@ -1,12 +1,12 @@
 ### Hi there 👋
 I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).  
 
-Currently part of the Lohika family, working @pinterest's data team, focusing on the UX.
+Currently part of the Capgemini Engineering fam, working @pinterest's data team, focusing on the UX.
 
-- [Resume](https://drive.google.com/file/d/1I5Cm3UEo-b7U2UGvznG5j7IK5rrjMd3r/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1I5Cm3UEo-b7U2UGvznG5j7IK5rrjMd3r/view?usp=sharing)  <sub>(outdated)</sub>  
 - [Project Showcase (screenshots & gifs of the projects)](https://github.com/numanaral/project-showcase)
 - [LinkedIn](https://www.linkedin.com/in/numanaral/)
-- [numanaral.github.io](https://numanaral.github.io/?ref=github) <sub>(Not yet started working on, to be updated)</sub>  
+- [git.io/numanaral](https://numanaral.github.io/?ref=github) <sub>(more of a placeholder ?)</sub>  
 
 Some of showcased projects can be viewed live from these links:
 - [bomba-man](https://git.io/bomba-man)
