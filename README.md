@@ -12,6 +12,7 @@ Some of showcased projects can be viewed live from these links:
 - [bomba-man](https://git.io/bomba-man)
 - [slide-scott](https://git.io/slide-scott)
 - [chin-scraper](https://git.io/chin-scraper)
+- [supa-maryo (INACTIVE & INCOMPLETE)](https://github.com/numanaral/supa-maryo)
 
 My current interest/focus lies on the following stack:
 - node (express) & Firebase
