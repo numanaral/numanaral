@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 ).  
+I am a Full Stack ( Developer 💻 | Student 🎓 | Husband 💍 | Father 👶).  
 
 Currently part of the Capgemini Engineering fam, working @pinterest's data team, focusing on the UX.
 
